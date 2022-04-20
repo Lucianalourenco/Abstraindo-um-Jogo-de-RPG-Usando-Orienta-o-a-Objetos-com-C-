@@ -1,0 +1,16 @@
+C:\Users\Luciana\projeto_poo\bin\Debug\net5.0\projeto_poo.exe
+C:\Users\Luciana\projeto_poo\bin\Debug\net5.0\projeto_poo.deps.json
+C:\Users\Luciana\projeto_poo\bin\Debug\net5.0\projeto_poo.runtimeconfig.json
+C:\Users\Luciana\projeto_poo\bin\Debug\net5.0\projeto_poo.runtimeconfig.dev.json
+C:\Users\Luciana\projeto_poo\bin\Debug\net5.0\projeto_poo.dll
+C:\Users\Luciana\projeto_poo\bin\Debug\net5.0\ref\projeto_poo.dll
+C:\Users\Luciana\projeto_poo\bin\Debug\net5.0\projeto_poo.pdb
+C:\Users\Luciana\projeto_poo\obj\Debug\net5.0\projeto_poo.csproj.AssemblyReference.cache
+C:\Users\Luciana\projeto_poo\obj\Debug\net5.0\projeto_poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luciana\projeto_poo\obj\Debug\net5.0\projeto_poo.AssemblyInfoInputs.cache
+C:\Users\Luciana\projeto_poo\obj\Debug\net5.0\projeto_poo.AssemblyInfo.cs
+C:\Users\Luciana\projeto_poo\obj\Debug\net5.0\projeto_poo.csproj.CoreCompileInputs.cache
+C:\Users\Luciana\projeto_poo\obj\Debug\net5.0\projeto_poo.dll
+C:\Users\Luciana\projeto_poo\obj\Debug\net5.0\ref\projeto_poo.dll
+C:\Users\Luciana\projeto_poo\obj\Debug\net5.0\projeto_poo.pdb
+C:\Users\Luciana\projeto_poo\obj\Debug\net5.0\projeto_poo.genruntimeconfig.cache
